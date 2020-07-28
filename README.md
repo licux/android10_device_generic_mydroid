@@ -1,0 +1,1 @@
+# android10_device_generic_mydroid
